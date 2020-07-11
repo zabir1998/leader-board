@@ -1,0 +1,66 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F3F1FF;;
+}
+.container{
+    margin-bottom: 100px;
+}
+.top{
+    background-color: #562EFF;;
+}
+header{
+    background-color: #562EFF;;
+}
+.brand-logo{
+    position: absolute;
+width: 40px;
+height: 48px;
+
+top: 11px;
+}
+.top-menu{
+    padding-top: 10px;
+    padding-right: 5px;
+}
+.profile{
+    width: 40px;
+height: 48px;
+}
+h3{
+    color: #562EFF;
+}
+.player img{
+    width: 56px;
+}
+.row{
+    margin-bottom: 50px;
+}
+.top-blogs img{
+    width: 177px;
+height: 117px;
+}
+.courses{
+    width: 224px;
+height: 104px;
+}
+h4{
+    margin-top: 20px;
+}
+.writer{
+    color: #ED6B4F;
+}
+.ratings{
+    display: inline;
+    width: 4%;
+}
+
+.time{
+    font-weight: 600;
+font-size: 14.6913px;
+line-height: 20px;
+color: #FF4A60;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
